@@ -18,7 +18,7 @@ export PHP_CODESNIFFER_SHA1SUM="5b4b2063c6b4917fd196447a647e5b56a7023a6a"
 export WP_CODING_STANDARDS_REPO="WordPress/WordPress-Coding-Standards"
 export WP_CODING_STANDARDS_VER="3.1.0"
 export WP_CODING_STANDARDS_VER_FILE="wp-coding-standards-$WP_CODING_STANDARDS_VER.txt"
-export WP_CODING_STANDARDS_SHA1SUM="9333efcbff231f10dfd9c56bb7b65818b4733ca7"
+export WP_CODING_STANDARDS_SHA1SUM="e499d90ab2ca6d60b119049b9410c351780d2ebd"
 
 # https://github.com/automattic/vip-coding-standards
 export VIP_CODING_STANDARDS_REPO="automattic/vip-coding-standards"
