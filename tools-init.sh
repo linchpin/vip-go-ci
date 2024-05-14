@@ -12,7 +12,7 @@ set -e
 export PHP_CODESNIFFER_REPO="PHPCSStandards/PHP_CodeSniffer"
 export PHP_CODESNIFFER_VER="3.9.2"
 export PHP_CODESNIFFER_VER_FILE="php-codesniffer-$PHP_CODESNIFFER_VER.txt"
-export PHP_CODESNIFFER_SHA1SUM="aac1f6f347a5c5ac6bc98ad395007df00990f480"
+export PHP_CODESNIFFER_SHA1SUM="5b4b2063c6b4917fd196447a647e5b56a7023a6a"
 
 # https://github.com/WordPress/WordPress-Coding-Standards
 export WP_CODING_STANDARDS_REPO="WordPress/WordPress-Coding-Standards"
@@ -24,13 +24,13 @@ export WP_CODING_STANDARDS_SHA1SUM="9333efcbff231f10dfd9c56bb7b65818b4733ca7"
 export VIP_CODING_STANDARDS_REPO="automattic/vip-coding-standards"
 export VIP_CODING_STANDARDS_VER="3.0.1"
 export VIP_CODING_STANDARDS_VER_FILE="vip-coding-standards-$VIP_CODING_STANDARDS_VER.txt"
-export VIP_CODING_STANDARDS_SHA1SUM="2b1d206d81b74ed999023cffd924f862ff2753c8"
+export VIP_CODING_STANDARDS_SHA1SUM="73f113f13b8747aeed8f93a827e34fd4125c3b81"
 
 # https://github.com/sirbrillig/phpcs-variable-analysis
 export PHPCS_VARIABLE_ANALYSIS_REPO="sirbrillig/phpcs-variable-analysis"
 export PHPCS_VARIABLE_ANALYSIS_VER="v2.11.18"
 export PHPCS_VARIABLE_ANALYSIS_VER_FILE="phpcs-variable-analysis-$PHPCS_VARIABLE_ANALYSIS_VER.txt"
-export PHPCS_VARIABLE_ANALYSIS_SHA1SUM="ca242a0b7309e0f9d1f73b236e04ecf4ca3248d0"
+export PHPCS_VARIABLE_ANALYSIS_SHA1SUM="f54bd764751ceabc89b377730638ffd871f74f1a"
 
 # https://github.com/phpcompatibility/phpcompatibility
 export PHP_COMPATIBILITY_REPO="phpcompatibility/phpcompatibility"
@@ -54,13 +54,13 @@ export PHP_COMPATIBILITY_PARAGONIE_SHA1SUM="7aa800cf9b2737ad64082cb70b4b4113d8c1
 export PHPCS_UTILS_REPO="PHPCSStandards/PHPCSUtils"
 export PHPCS_UTILS_VER="1.0.11"
 export PHPCS_UTILS_VER_FILE="phpcs-utils-$PHPCS_UTILS_VER.txt"
-export PHPCS_UTILS_SHA1SUM="c457da9dabb60eb7106dd5e3c05132b1a6539c6a"
+export PHPCS_UTILS_SHA1SUM="5c2ef745d960b4a865f0a17a97b9f2d69e12eecd"
 
 # https://github.com/PHPCSStandards/PHPCSExtra
 export PHPCS_EXTRA_REPO="PHPCSStandards/PHPCSExtra"
 export PHPCS_EXTRA_VER="1.2.1"
 export PHPCS_EXTRA_VER_FILE="phpcs-extra-$PHPCS_EXTRA_VER.txt"
-export PHPCS_EXTRA_SHA1SUM="11d387c6642b6e4acaf0bd9bf5203b8cca1ec489"
+export PHPCS_EXTRA_SHA1SUM="76cda4f26f099e588ba531bf41ac173b7ad02e17"
 
 # https://github.com/Automattic/vip-go-svg-sanitizer
 export VIP_GO_SVG_SANITIZER_REPO="Automattic/vip-go-svg-sanitizer"
