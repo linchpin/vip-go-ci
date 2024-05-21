@@ -10,9 +10,9 @@ set -e
 
 # https://github.com/PHPCSStandards/PHP_CodeSniffer
 export PHP_CODESNIFFER_REPO="PHPCSStandards/PHP_CodeSniffer"
-export PHP_CODESNIFFER_VER="3.9.2"
+export PHP_CODESNIFFER_VER="3.10.0"
 export PHP_CODESNIFFER_VER_FILE="php-codesniffer-$PHP_CODESNIFFER_VER.txt"
-export PHP_CODESNIFFER_SHA1SUM="5b4b2063c6b4917fd196447a647e5b56a7023a6a"
+export PHP_CODESNIFFER_SHA1SUM="9776d7108bafcda3bfb457c55cae2a6322652136"
 
 # https://github.com/WordPress/WordPress-Coding-Standards
 export WP_CODING_STANDARDS_REPO="WordPress/WordPress-Coding-Standards"
@@ -52,9 +52,9 @@ export PHP_COMPATIBILITY_PARAGONIE_SHA1SUM="7aa800cf9b2737ad64082cb70b4b4113d8c1
 
 # https://github.com/PHPCSStandards/PHPCSUtils
 export PHPCS_UTILS_REPO="PHPCSStandards/PHPCSUtils"
-export PHPCS_UTILS_VER="1.0.11"
+export PHPCS_UTILS_VER="1.0.12"
 export PHPCS_UTILS_VER_FILE="phpcs-utils-$PHPCS_UTILS_VER.txt"
-export PHPCS_UTILS_SHA1SUM="5c2ef745d960b4a865f0a17a97b9f2d69e12eecd"
+export PHPCS_UTILS_SHA1SUM="3877b9c263dee2b490520c58b98ad8c407d810b3"
 
 # https://github.com/PHPCSStandards/PHPCSExtra
 export PHPCS_EXTRA_REPO="PHPCSStandards/PHPCSExtra"
