@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.3.12](https://github.com/Automattic/vip-go-ci/releases/tag/1.3.12) - 2024-15-05
 - [#386](https://github.com/Automattic/vip-go-ci/pull/386): Update VIPCS + dependencies
+- [#388](https://github.com/Automattic/vip-go-ci/pull/388): Update PHPCS, PHPUtils and PHPCompatibility dependencies
 
 ## [1.3.11](https://github.com/Automattic/vip-go-ci/releases/tag/1.3.11) - 2023-11-02
 - [#383](https://github.com/Automattic/vip-go-ci/pull/383): Temporarily roll back git requirement
