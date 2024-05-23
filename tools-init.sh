@@ -10,9 +10,9 @@ set -e
 
 # https://github.com/PHPCSStandards/PHP_CodeSniffer
 export PHP_CODESNIFFER_REPO="PHPCSStandards/PHP_CodeSniffer"
-export PHP_CODESNIFFER_VER="3.10.0"
+export PHP_CODESNIFFER_VER="3.10.1"
 export PHP_CODESNIFFER_VER_FILE="php-codesniffer-$PHP_CODESNIFFER_VER.txt"
-export PHP_CODESNIFFER_SHA1SUM="9776d7108bafcda3bfb457c55cae2a6322652136"
+export PHP_CODESNIFFER_SHA1SUM="b8aca4578b3afbc3fb9162a59fa075b209e2c611"
 
 # https://github.com/WordPress/WordPress-Coding-Standards
 export WP_CODING_STANDARDS_REPO="WordPress/WordPress-Coding-Standards"
